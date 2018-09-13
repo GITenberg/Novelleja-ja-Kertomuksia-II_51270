@@ -1,0 +1,46 @@
+_repo: Novelleja-ja-Kertomuksia-II_51270
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+  - agent_name: Etlar, Carit
+    aliases:
+    - Brosboll, Johan Carl Christian
+    - Brosbøll, Johan Carl Christian
+    birthdate: 1816
+    deathdate: 1900
+    gutenberg_agent_id: '31996'
+    url: http://www.gutenberg.org/2009/agents/31996
+  - agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2016-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51270'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Arne / Björnstjerne Björnson -- Kaksi kosijata / Carit Etlar -- Auringon
+  välkähdyksiä / Sylvia -- Veliviha / Berthold Auerbach.
+title: Novelleja ja Kertomuksia II
+url: http://www.gutenberg.org/ebooks/51270
